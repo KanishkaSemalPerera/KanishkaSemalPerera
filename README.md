@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=220&section=header&text=Kanishka%20Semal%20Perera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20DevOps%20Engineer%20%7C%20Automating%20the%20boring%20stuff&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=220&section=header&text=Kanishka%20Semal%20Perera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20DevOps%20Engineer%20%7C%20Automating%20the%20boring%20stuff&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+reliable%2C+automated+infrastructure;AWS+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;CI%2FCD+pipelines+that+just+work;Infrastructure+as+Code+%7C+GitOps+%7C+SRE" alt="Typing SVG" />
 
@@ -19,7 +19,7 @@
 
 ```yaml
 name: Kanishka Semal Perera
-role: Associate DevOps Engineer
+role: DevOps Engineer
 location: Sri Lanka
 currently_learning: [Kubernetes (advanced), GitOps/ArgoCD, AWS DevOps Pro, Terraform modules, Helm charts]
 ask_me_about: [AWS, Docker, Kubernetes, Linux, Terraform, Jenkins, GitHub Actions, Bash]
